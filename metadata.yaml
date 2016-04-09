@@ -1,0 +1,67 @@
+_repo: Mansfield-Park_141
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
+description: "Mansfield Park is the third novel by Jane Austen, written at Chawton\
+  \ Cottage between February 1811 and 1813. It was published in May 1814 by Thomas\
+  \ Egerton, who published Jane Austen's two earlier novels, Sense and Sensibility\
+  \ and Pride and Prejudice. When the novel reached a second edition in 1816, its\
+  \ publication was taken over by John Murray, who also published its successor, Emma.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1994-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '141'
+  wikidata: Q469690
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cousins -- Fiction'
+- !lcsh 'Adoptees -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Country homes -- Fiction'
+- !lcsh 'Children of the rich -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Uncles -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Young women -- Fiction'
+- GITenberg
+title: Mansfield Park
+url: http://www.gutenberg.org/ebooks/141
+wikipedia:
+- https://fi.wikipedia.org/wiki/Kasvattityt%C3%B6n_tarina
+- https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B3%D9%81%DB%8C%D9%84%D8%AF_%D9%BE%D8%A7%D8%B1%DA%A9
+- https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF
+- https://pt.wikipedia.org/wiki/Mansfield_Park
+- https://es.wikipedia.org/wiki/Mansfield_Park
+- https://en.wikipedia.org/wiki/Mansfield_Park
+- https://ru.wikipedia.org/wiki/%D0%9C%D1%8D%D0%BD%D1%81%D1%84%D0%B8%D0%BB%D0%B4-%D0%BF%D0%B0%D1%80%D0%BA
+- https://ko.wikipedia.org/wiki/%EB%A7%A8%EC%8A%A4%ED%95%84%EB%93%9C_%ED%8C%8C%ED%81%AC
+- https://fr.wikipedia.org/wiki/Mansfield_Park
+- https://zh.wikipedia.org/wiki/%E6%9B%BC%E6%96%AF%E8%8F%B2%E7%88%BE%E5%BE%B7%E8%8E%8A%E5%9C%92
+- https://pl.wikipedia.org/wiki/Mansfield_Park
+- https://da.wikipedia.org/wiki/Mansfield_Park
+- https://simple.wikipedia.org/wiki/Mansfield_Park_(novel)
+- https://sv.wikipedia.org/wiki/Mansfield_Park
+- https://af.wikipedia.org/wiki/Mansfield_Park
+- https://hu.wikipedia.org/wiki/A_mansfieldi_kast%C3%A9ly
+- https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%86%D8%B3%D9%81%D9%8A%D9%84%D8%AF_%D8%A8%D8%A7%D8%B1%D9%83
+- https://nl.wikipedia.org/wiki/Mansfield_Park
+- https://id.wikipedia.org/wiki/Mansfield_Park
+- https://cs.wikipedia.org/wiki/Mansfieldsk%C3%A9_panstv%C3%AD
+- https://de.wikipedia.org/wiki/Mansfield_Park
+- https://en.wikiquote.org/wiki/Mansfield_Park_(novel)
+- https://bg.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D1%81%D1%84%D0%B8%D0%B9%D0%BB%D0%B4_%D0%BF%D0%B0%D1%80%D0%BA
+- https://it.wikipedia.org/wiki/Mansfield_Park
+- https://no.wikipedia.org/wiki/Mansfield_Park
+- https://tr.wikipedia.org/wiki/Mansfield_Park
+- https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%A1%D7%A4%D7%99%D7%9C%D7%93_%D7%A4%D7%90%D7%A8%D7%A7
